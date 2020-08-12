@@ -48,8 +48,8 @@ blockquote{
   margin-top: 0px;
 }
 .faith{
-  margin-top: 320px;
-  margin-bottom: 220px;
+  margin-top: 220px;
+  margin-bottom: 120px;
 }
 blockquote::before{
   content: '"';
